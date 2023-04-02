@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Savycode10
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me savedanudo10@gmail.com
